@@ -2,15 +2,15 @@
 
 <ul>
 <li> https://einorin.github.io/RanDish/ </li>
-https://einorin.github.io/Rock_Paper_Scissors/ </br>
-https://einorin.github.io/sign-up-form/ </br> 
-https://einorin.github.io/dashboard-project/ </br>
-https://einorin.github.io/PortfolioV1/ </br>
-https://einorin.github.io/Calculator/ </br>
-https://einorin.github.io/etch-a-sketch/ </br>
-https://github.com/Einorin/Tic-Tac-Toe </br>
-https://einorin.github.io/library/ </br>
-https://einorin.github.io/browser-form/ </br>
-https://einorin.github.io/weather-app/ </br>
-https://einorin.github.io/Todo-List/ </br>
+<li>https://einorin.github.io/Rock_Paper_Scissors/ </li>
+<li>https://einorin.github.io/sign-up-form/ </li>
+<li> https://einorin.github.io/dashboard-project/ </li>
+<li> https://einorin.github.io/PortfolioV1/ </li>
+<li>https://einorin.github.io/Calculator/ </li>
+<li>https://einorin.github.io/etch-a-sketch/ </li>
+<li> https://github.com/Einorin/Tic-Tac-Toe </li>
+  <li> https://einorin.github.io/library/</li>
+  <li> https://einorin.github.io/browser-form/ </li>
+  <li> https://einorin.github.io/weather-app/ </li>
+  <li> https://einorin.github.io/Todo-List/ </li>
 </ul>
